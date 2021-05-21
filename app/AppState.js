@@ -7,7 +7,7 @@ class AppState extends EventEmitter {
   /** @type {Value[]} */
   values = [];
 
-  /** @type {Cart[]} */
+  ///** @type {Cart[]} */
   cart = [];
 
   /** @type {Product[]} */
